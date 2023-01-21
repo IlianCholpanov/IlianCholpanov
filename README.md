@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ilian Cholpanov (ilko)</h1>
 <h3 align="center">A passionate Web Developer Student at SoftUni.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2151912/screenshots/11427204/hacker2.gif">
+<img align="right" alt="Coding" width="400" src="https://learn.redhat.com/t5/image/serverpage/image-id/652i3C29451082ADC6C3/image-size/large/is-moderation-mode/true?v=v2&px=999">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iliancholpanov" alt="iliancholpanov" /></a> </p>
 
