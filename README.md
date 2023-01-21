@@ -2,7 +2,11 @@
 <h3 align="center">A passionate Web Developer Student at SoftUni.</h3>
 <img align="right" alt="Coding" width="200" src="https://learn.redhat.com/t5/image/serverpage/image-id/652i3C29451082ADC6C3/image-size/large/is-moderation-mode/true?v=v2&px=999">
 
+- 🔭 I’m currently working on delevoping new skills. I'm also looking for JavaScript internship.
+
 - 🌱 I’m currently learning **JavaScript,HTML & CSS @ SoftUni.**
+
+- ⚡ Fun fact: Stoic preacher.
 
 - 📫 How to reach me **iliancholpanov@gmail.com**
 
