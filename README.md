@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ilian Cholpanov (ilko)</h1>
 <h3 align="center">A passionate Web Developer Student at SoftUni.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/-GqR-QpqkLYAAAAM/thinker-art.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 - 🔭 I’m currently working on delevoping new skills. I'm also looking for JavaScript internship.
 
