@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ilian Cholpanov (ilko)</h1>
-<h3 align="center">I have a passion for coding and I am currently learning Javascript.</h3>
+<h3 align="center">A passionate Web Developer Student at SoftUni.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2151912/screenshots/11427204/hacker2.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iliancholpanov" alt="iliancholpanov" /></a> </p>
