@@ -12,7 +12,7 @@
 
 ### About me:
 <br/>
-- 📫 You can [reach me]("https://www.linkedin.com/in/ilian-cholpanov-a4a12428b/") on LinkedIn
+- 📫 You can [reach me](linkedin.com/in/ilian-cholpanov-a4a12428b) on LinkedIn
 <br/>
 
 Languages and Tools :
