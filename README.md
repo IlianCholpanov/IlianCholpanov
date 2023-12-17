@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <br/>
-- 📫 You can [reach me](https://www.linkedin.com/in/ilian-cholpanov-a4a12428b/) on LinkedIn
+- 📫 You can [reach me]("https://www.linkedin.com/in/ilian-cholpanov-a4a12428b/") on LinkedIn
 <br/>
 
 Languages and Tools :
