@@ -11,7 +11,7 @@
 - 📫 How to reach me **iliancholpanov@gmail.com**
 
 ### About me:
-<br/>
+
 - 📫 You can [reach me](linkedin.com/in/ilian-cholpanov-a4a12428b) on LinkedIn
 <br/>
 
