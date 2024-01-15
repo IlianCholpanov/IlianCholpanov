@@ -1,27 +1,26 @@
-<h1 align="center">Hi 👋, I'm Ilian Cholpanov (ilko)</h1>
-<h3 align="center">A passionate Web Developer Student at SoftUni.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ilian Cholpanov
+=======================================================================================================================================
 
-- 🔭 I’m working on delevoping new skills. I'm also looking for Fron-End internship.
+Web Developer
+-------------
 
-- 🌱 I’m currently learning **JavaScript,HTML & CSS @ SoftUni.**
+* 🌍  I'm based in Bulgaria
+* ✉️  You can contact me at [https://www.linkedin.com/in/ilian-cholpanov-a4a12428b/](mailto:https://www.linkedin.com/in/ilian-cholpanov-a4a12428b/)
 
-- ⚡ Fun fact: Stoic preacher.
-
-- 📫 How to reach me **iliancholpanov@gmail.com**
-
-### About me:
-
-- 📫 You can [reach me](linkedin.com/in/ilian-cholpanov-a4a12428b) on LinkedIn
-<br/>
-
-Languages and Tools :
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,nodejs)](https://skillicons.dev)
- <br/>
+### Skills
 
 
-<p>
-  <!-- <summary>:zap: GitHub Stats</summary> -->
-  <img height="165em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=IlianCholpanov&show_icons=true&bg_color=00000000&hide_border=true&text_color=3498db&&count_private=true&include_all_commits=true" />
-  <img height="130em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlianCholpanov&langs_count=8&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db&&count_private=true&include_all_commits=true" />
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 </p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/IlianCholpanov" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ilian-cholpanov-a4a12428b/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/IlianCholpanov"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IlianCholpanov&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
