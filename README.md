@@ -5,7 +5,7 @@ Web Developer
 -------------
 
 * 🌍  I'm based in Bulgaria
-* ✉️  You can contact me at [https://www.linkedin.com/in/ilian-cholpanov-a4a12428b/](mailto:https://www.linkedin.com/in/ilian-cholpanov-a4a12428b/)
+* ✉️  You can contact me at [https://www.linkedin.com/in/ilian-cholpanov-a4a12428b/](iliancholpanov@gmail.com)
 
 ### Skills
 
