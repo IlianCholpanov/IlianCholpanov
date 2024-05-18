@@ -10,8 +10,11 @@ Web Developer
 ### Skills
 
 
-<p align="left">
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,supabase,vite,tailwind)](https://skillicons.dev))
+<p align='center'>
+  <a href='https://skillicons.dev'>
+    <img scr= 'https://skillicons.dev/icons?i=js,html,css,react,redux,supabase,vite,tailwind'/>
+  </a>
+</p>
 
 
 ### Socials
