@@ -10,9 +10,9 @@ Web Developer
 ### Skills
 
 
-<p align='center'>
-  <a href='https://skillicons.dev'>
-    <img scr= 'https://skillicons.dev/icons?i=js,html,css,react,redux,supabase,vite,tailwind'/>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,redux,supabase,tailwind,vite" />
   </a>
 </p>
 
